@@ -76,7 +76,6 @@ url-shortener/
   └──url_shortener_001.jpg
   └──url_shortener_002.jpg
   └──url_shortener_003.jpg
-  
 ├── static/
 │ └── style.css # CSS file for styling
 ├── templates/
