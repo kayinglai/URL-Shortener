@@ -18,7 +18,7 @@ A simple web application to shorten long URLs. This project uses Python and Flas
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/kayinglai/url_shortener.git
+    git clone https://github.com/kayinglai/URL-Shortener.git
     cd url_shortener
     ```
 
