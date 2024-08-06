@@ -90,9 +90,6 @@ url-shortener/
 
 The application uses a custom CSS file to enhance the user interface with a modern look. The CSS file is located in the `static` directory.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
