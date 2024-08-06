@@ -64,9 +64,9 @@ A simple web application to shorten long URLs. This project uses Python and Flas
 
 3. **Use the web interface to shorten URLs.**
 
-![URL Shortener](images/url_shortener_001.jpg)
-![URL Shortener](images/url_shortener_002.jpg)
-![URL Shortener](images/url_shortener_003.jpg)
+![URL Shortener](Images/url_shortener_001.jpg)
+![URL Shortener](Images/url_shortener_002.jpg)
+![URL Shortener](Images/url_shortener_003.jpg)
 
 ## Project Structure
 
